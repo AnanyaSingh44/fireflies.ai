@@ -1,0 +1,10 @@
+# Frontend caches
+frontend/.next/
+frontend/node_modules/
+
+# Backend virtual environments & SQLite database
+backend/__pycache__/
+backend/venv/
+backend/.venv/
+*.db
+*.sqlite3
